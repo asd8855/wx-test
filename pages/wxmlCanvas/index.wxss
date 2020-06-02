@@ -1,0 +1,6 @@
+.widget {}
+
+canvas {
+    width: 343px !important;
+    height: 500px !important;
+}
